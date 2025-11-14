@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Marwa Essanousy  
+### DevOps Student & Full-Stack Developer (Angular • Spring Boot)
 
-<!--
-**marwa-essanousy/marwa-essanousy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=marwa-essanousy&style=flat-square&color=blue)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+🎓 I'm a **DevOps student** passionate about automation, cloud technologies, and CI/CD pipelines.  
+💻 I also work as a **Full-Stack Developer**, mainly using **Angular** for the frontend and **Spring Boot** for the backend.  
+🌱 Currently improving my knowledge in **Docker**, **Kubernetes**, **GitHub Actions**, and microservices architecture.  
+🔥 I enjoy building modern applications combining DevOps + Full-Stack development.
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 🎨 Frontend
+- **Angular**, TypeScript, HTML, CSS  
+- Angular Material, RxJS
+
+### 🧩 Backend
+- **Java**, **Spring Boot**, Spring Security  
+- REST APIs, Microservices, JPA/Hibernate
+
+### ⚙️ DevOps
+- **Git & GitHub**
+- **Docker**
+- **CI/CD** with GitHub Actions  
+- Linux, Bash scripting
+
+---
+
+## 🧰 Tools & Languages (Badges)
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwa-essanousy&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marwa-essanousy&show_icons=true&theme=dark)
+
+---
+
+## 📫 Contact Me
+
+📧 **Email:** marwaessanousy20@gmail.com 
+
+✨ *Thanks for visiting my profile! Feel free to explore my projects.*  
