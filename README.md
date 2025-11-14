@@ -1,4 +1,8 @@
 # 👋 Hi, I'm Marwa Essanousy  
+<p align="center">
+  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000009e7871f492ac0c4e5f0f7a27&ts=489763&p=fs&cid=1&sig=ffc95d535b99f3e58e29619a2a69a2c4836ade58720a8e5916b07919afae854b&v=0" alt="Marwa Essanousy Banner" />
+</p>
+
 ### DevOps Student & Full-Stack Developer (Angular • Spring Boot)
 
 ![Profile views](https://komarev.com/ghpvc/?username=marwa-essanousy&style=flat-square&color=blue)
