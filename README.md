@@ -1,9 +1,4 @@
 # 👋 Hi, I'm Marwa Essanousy  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marwa-essanousy/marwa-essanousy/main/banner.png" />
-</p>
-
-
 ### DevOps Student & Full-Stack Developer (Angular • Spring Boot)
 
 ![Profile views](https://komarev.com/ghpvc/?username=marwa-essanousy&style=flat-square&color=blue)
